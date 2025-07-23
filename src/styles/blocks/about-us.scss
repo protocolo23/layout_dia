@@ -1,5 +1,7 @@
 .about-us {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .about-us__details {
